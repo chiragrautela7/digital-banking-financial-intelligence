@@ -1,0 +1,20 @@
+# MySQL / local files
+*.sql.bak
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Python / notebooks if added later
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.temp
